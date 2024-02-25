@@ -1,4 +1,4 @@
 # Car-Hangman
 
-Created hangman with car companies!
+Guess the car company!
 Have fun!
