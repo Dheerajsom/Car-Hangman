@@ -58,7 +58,5 @@ car_companies = [
     "Canoo",
     "Fisker",
     "Lordstown Motors",
-    "Rivian",
-    "Rivian",
     "Rivian"
 ]
